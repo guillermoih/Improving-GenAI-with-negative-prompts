@@ -1,0 +1,5 @@
+env/*
+old_res/*
+results/*
+form_imgs/*
+*.xlsx
