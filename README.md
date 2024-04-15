@@ -14,9 +14,6 @@ The purpose of this notebook is to take the images generated in the previous not
 ### 3. Generate_Results.ipynb
 This notebook processes the outcomes of the optimization process and the generated form images. It calculates the metrics used in the results section of the paper.
 
-## Usage
-To utilize the code provided in this repository, follow these steps:
-
 ### Results
 The results obtained from executing the notebooks demonstrate the effectiveness of the proposed approach in improving text-to-image generation quality.
 
